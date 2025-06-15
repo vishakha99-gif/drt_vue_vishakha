@@ -31,3 +31,4 @@ This project is a Nuxt 3-based frontend application implementing a performant, f
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 pnpm install # or yarn / npm install
+npm run dev
